@@ -24,3 +24,4 @@ var Direction;
 let newStudent = { name: 'Maria', age: 10, enrolled: true };
 let newStudent1 = { name: 'Maria', age: 10, enrolled: true, course: "ComScience" };
 let maleStu1 = { name: 'Maria', age: 10, enrolled: true, height: 1.5, id: 12 };
+const nhat = { name: "Nhat", age: 20, id: 112 };
